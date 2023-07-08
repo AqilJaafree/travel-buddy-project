@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "368423215770",
+    "project_id": "travelbuddy-jasin",
+    "storage_bucket": "travelbuddy-jasin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:368423215770:android:393082b5921733a7e57523",
+        "android_client_info": {
+          "package_name": "travelbuddy.com.my"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "368423215770-qpp90vf2ebtv91s6ngtvntu5qthhsdug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9GV8ZMMYaxAe0dBgtt9vq8vjwGR0HhEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "368423215770-qpp90vf2ebtv91s6ngtvntu5qthhsdug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
